@@ -1,11 +1,14 @@
 ---
-title: "Markdown Syntax Guide"
-date: 2022-04-29T06:51:00Z
+title: "Next Wromo Theme Guide"
+date: 2022-07-06T06:51:00Z
 slug: "markdown-syntax-guide"
-description: "This article offers a sample basic Markdown syntax that can be used in Astro content files, also it shows whether basic HTML elements are decorated with css in Astro thems."
+description: "This article offers a sample basic theme content files, also it shows whether basic HTML elements are decorated wromo thems."
 categories: ["theme"]
 tags: ["markdown","css","html","theme"]
 layout: "../../layouts/PostLayout.astro"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Blog wromo.at everything you want to know about wromo.at and marketing.
+We offer services
+
+We offer qualified marketing support in all areas of ads marketing. We offer WordPress solutions for your trading business in all business areas. We have helped customers solve the most difficult problems, which is underlined by the positive feedback.
